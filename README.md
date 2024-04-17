@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a student at Atlas School in Tulsa, OK, and will be graduating in August of 2024 with a Diploma of Computer Programming & Full Stack Development. 
+
+I am pursuing a career in IT Project Management, where I can utilize my experience in programming (C language, Python, APIs, Docker, Front-end, and more!) along with my background in animal behavior and psychology to lead healthy, happy dev teams to success.
+
 <!--
 **sarahmarkland/sarahmarkland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+To learn more about me, please visit my [LinkedIn](www.linkedin.com/in/sarahmarkland-webdev)!
+
