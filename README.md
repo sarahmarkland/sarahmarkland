@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student at Atlas School in Tulsa, OK, and will be graduating in August of 2024 with a Diploma of Computer Programming & Full Stack Development. 
+I'm Sloane, a student at Atlas School in Tulsa, OK. I will be graduating in August of 2024 with a Diploma of Computer Programming & Full Stack Development. 
 
 I am pursuing a career in IT Project Management, where I can utilize my experience in programming (C language, Python, APIs, Docker, Front-end, and more!) along with my background in animal behavior and psychology to lead healthy, happy dev teams to success.
 
